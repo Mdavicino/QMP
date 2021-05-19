@@ -1,0 +1,29 @@
+class Atuendo{
+  metodo prendas()
+    return prendas
+}
+
+class Prenda{
+  constructor(tipoPrenda, categoriaPrenda, materialPrenda, colorPrincipal)
+    validarTipo(tipoPrenda, categoriaPrenda)
+    this.tipoPrenda = tipoPrenda
+    this.categoriaPrenda = categoriaPrenda
+    this.materialPrenda = materialPrenda
+    this.colorPrincipal = colorPrincipal
+
+  metodo agregarColorSecundario(unColor)
+    this.colorSecundario = unColor
+
+  metodo validarTipo(unTipo, unaCategoria)
+    if(!unTipo.esDeCategoria(unaCategoria))
+      throw new Exception(message = "El tipo de prenda no se condice con la categoria")
+}
+
+class tipoPrenda{
+  metodo esDeCategoria(unaCategoria)
+    return unaCategoria == this.categoria
+}
+
+Enum Categorias{
+  SUPERIOR, CALZADO, INFERIOR, ACCESORIOS
+}
