@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5edfd50f-9baf-4981-96f9-1176b840c1df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/PrendaNoExistenteEnGuardarropasException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/PrendaYaIncluidaEnGuardarropasException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guardarropa/Guardarropa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guardarropa/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prenda/PrendaSugerencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QMP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QMP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atuendo/Asesor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atuendo/Atuendo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/clima/API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/clima/AccuWeatherAPI$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/clima/AccuWeatherAPI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/clima/AccuWeatherAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/clima/ServicioMetereologico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/Material.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/Prenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/PrendaBorrador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/TipoDePrenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/prenda/Trama.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uniforme/Sastre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uniforme/SastreJohnston.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uniforme/SastreSanJuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uniforme/Uniforme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PruebaTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1sj3CCrPoESCe68PzjuriB5INdk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exceptions" />
+      <recent name="clima" />
+      <recent name="prenda" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="prenda" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaTest.testRegisterSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QMP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PruebaTest" />
+      <option name="METHOD_NAME" value="testRegisterSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PruebaTest.testRegisterSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5edfd50f-9baf-4981-96f9-1176b840c1df" name="Default Changelist" comment="" />
+      <created>1621372043631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621372043631</updated>
+      <workItem from="1621372046151" duration="10253000" />
+      <workItem from="1621966202102" duration="2865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
